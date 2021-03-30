@@ -1,0 +1,19 @@
+body{
+    background-color: #E4D9C5;
+}
+
+form {
+    margin:5 40px;
+}
+
+.messages, p {
+    font-weight: 50px;
+    color: #586E6B;
+}
+.wrapper {
+    display: inline-block;
+    padding: 25px;
+}
+h1 {
+    text-align: center;
+}
